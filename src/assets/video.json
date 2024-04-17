@@ -1,0 +1,29 @@
+{
+  "scenicId": 1,
+  "scenicName": "风山公园",
+  "resourceList": [
+    {
+      "id": 0,
+      "type": "video", // photo  video
+      "username": "李晓",
+      "userType": "visitor", // visitor business
+      "likes": 9444,
+      "comments": 6340,
+      "uri": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
+      "tags": "#testvideo #reactnative #tiktok #git #development #github #clone #react",
+      "music": "Introducing Chromecast. The easiest way to enjoy"
+    },
+    {
+      "id": 0,
+      "type": "photo",
+      "username": "李晓",
+      "userType": "visitor", // visitor business
+      "likes": 9444,
+      "comments": 6340,
+      "photoList": [],
+      "uri": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
+      "tags": "#testvideo #reactnative #tiktok #git #development #github #clone #react",
+      "music": "Introducing Chromecast. The easiest way to enjoy"
+    }
+  ]
+}

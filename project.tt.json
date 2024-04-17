@@ -1,0 +1,13 @@
+{
+  "miniprogramRoot": "./",
+  "projectname": "scenic",
+  "description": "景点旅游",
+  "appid": "touristappid",
+  "setting": {
+    "urlCheck": true,
+    "es6": false,
+    "postcss": false,
+    "minified": false
+  },
+  "compileType": "miniprogram"
+}
